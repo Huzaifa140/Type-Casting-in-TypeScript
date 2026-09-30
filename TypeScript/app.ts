@@ -10,7 +10,5 @@ const showUsername=()=>{
     count++
     console.log(count);
 }
-
-
 console.log("testing");
 console.log("Another day to using type-casting testing 123.....");
